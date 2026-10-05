@@ -1,0 +1,273 @@
+[
+    {
+        "id": 1,
+        "title": "Wireless Bluetooth Headphones",
+        "price": 59.99,
+        "category": "Electronics",
+        "rating": 4.8,
+        "trending": true,
+        "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+        "id": 2,
+        "title": "Smart Watch Series 8",
+        "price": 89.99,
+        "category": "Electronics",
+        "rating": 4.7,
+        "trending": true,
+        "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+        "id": 3,
+        "title": "Premium Cotton T-Shirt",
+        "price": 24.99,
+        "category": "Fashion",
+        "rating": 4.5,
+        "trending": true,
+        "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+        "id": 4,
+        "title": "Classic Running Sneakers",
+        "price": 74.99,
+        "category": "Footwear",
+        "rating": 4.6,
+        "trending": true,
+        "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+        "id": 5,
+        "title": "Leather Backpack",
+        "price": 49.99,
+        "category": "Accessories",
+        "rating": 4.4,
+        "trending": false,
+        "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+        "id": 6,
+        "title": "Professional Camera",
+        "price": 649.99,
+        "category": "Electronics",
+        "rating": 4.9,
+        "trending": true,
+        "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+        "id": 7,
+        "title": "Wireless Gaming Mouse",
+        "price": 39.99,
+        "category": "Electronics",
+        "rating": 4.6,
+        "trending": true,
+        "image": "https://images.unsplash.com/photo-1527814050087-3793815479db?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+        "id": 8,
+        "title": "Mechanical Gaming Keyboard",
+        "price": 79.99,
+        "category": "Electronics",
+        "rating": 4.8,
+        "trending": true,
+        "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+        "id": 9,
+        "title": "Minimalist Sunglasses",
+        "price": 19.99,
+        "category": "Accessories",
+        "rating": 4.3,
+        "trending": false,
+        "image": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+        "id": 10,
+        "title": "Classic Denim Jacket",
+        "price": 54.99,
+        "category": "Fashion",
+        "rating": 4.5,
+        "trending": true,
+        "image": "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+        "id": 11,
+        "title": "Women's Casual Dress",
+        "price": 44.99,
+        "category": "Fashion",
+        "rating": 4.6,
+        "trending": true,
+        "image": "https://images.unsplash.com/photo-1595777457583-95e059d581b8?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+        "id": 12,
+        "title": "Running Sports Shoes",
+        "price": 69.99,
+        "category": "Footwear",
+        "rating": 4.7,
+        "trending": true,
+        "image": "https://images.unsplash.com/photo-1551107696-a4b0c5a0d9a2?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+        "id": 13,
+        "title": "Smartphone Pro Max",
+        "price": 799.99,
+        "category": "Electronics",
+        "rating": 4.9,
+        "trending": true,
+        "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+        "id": 14,
+        "title": "Portable Bluetooth Speaker",
+        "price": 45.99,
+        "category": "Electronics",
+        "rating": 4.5,
+        "trending": false,
+        "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+        "id": 15,
+        "title": "Ceramic Coffee Mug",
+        "price": 14.99,
+        "category": "Home",
+        "rating": 4.4,
+        "trending": false,
+        "image": "https://images.unsplash.com/photo-1514228742587-6b1558fcca3d?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+        "id": 16,
+        "title": "Modern Table Lamp",
+        "price": 34.99,
+        "category": "Home",
+        "rating": 4.5,
+        "trending": false,
+        "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+        "id": 17,
+        "title": "Luxury Perfume",
+        "price": 79.99,
+        "category": "Beauty",
+        "rating": 4.8,
+        "trending": true,
+        "image": "https://images.unsplash.com/photo-1541643600914-78b084683601?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+        "id": 18,
+        "title": "Skincare Gift Set",
+        "price": 39.99,
+        "category": "Beauty",
+        "rating": 4.6,
+        "trending": true,
+        "image": "https://images.unsplash.com/photo-1556228720-195a672e8a03?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+        "id": 19,
+        "title": "Classic Wrist Watch",
+        "price": 119.99,
+        "category": "Accessories",
+        "rating": 4.7,
+        "trending": false,
+        "image": "https://images.unsplash.com/photo-1524805444758-089113d48a6d?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+        "id": 20,
+        "title": "Travel Suitcase",
+        "price": 99.99,
+        "category": "Accessories",
+        "rating": 4.5,
+        "trending": false,
+        "image": "https://images.unsplash.com/photo-1565026057447-bc90a3dceb87?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+        "id": 21,
+        "title": "Organic Coffee Beans",
+        "price": 18.99,
+        "category": "Grocery",
+        "rating": 4.8,
+        "trending": true,
+        "image": "https://images.unsplash.com/photo-1447933601403-0c6688de566e?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+        "id": 22,
+        "title": "Premium Green Tea",
+        "price": 12.99,
+        "category": "Grocery",
+        "rating": 4.5,
+        "trending": false,
+        "image": "https://images.unsplash.com/photo-1556679343-c7306c1976bc?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+        "id": 23,
+        "title": "Kitchen Knife Set",
+        "price": 59.99,
+        "category": "Home",
+        "rating": 4.7,
+        "trending": false,
+        "image": "https://images.unsplash.com/photo-1593618998160-e34014e67546?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+        "id": 24,
+        "title": "Modern Backpack",
+        "price": 42.99,
+        "category": "Accessories",
+        "rating": 4.4,
+        "trending": false,
+        "image": "https://images.unsplash.com/photo-1622560480605-d83c853bc5c3?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+        "id": 25,
+        "title": "Wireless Earbuds",
+        "price": 49.99,
+        "category": "Electronics",
+        "rating": 4.7,
+        "trending": true,
+        "image": "https://images.unsplash.com/photo-1606220945770-b5b6c2c55bf1?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+        "id": 26,
+        "title": "Oversized Hoodie",
+        "price": 39.99,
+        "category": "Fashion",
+        "rating": 4.6,
+        "trending": true,
+        "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+        "id": 27,
+        "title": "Fitness Dumbbell Set",
+        "price": 84.99,
+        "category": "Sports",
+        "rating": 4.5,
+        "trending": false,
+        "image": "https://images.unsplash.com/photo-1583454110551-21f2fa2afe61?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+        "id": 28,
+        "title": "Yoga Mat",
+        "price": 24.99,
+        "category": "Sports",
+        "rating": 4.6,
+        "trending": false,
+        "image": "https://images.unsplash.com/photo-1601925260368-ae2f83cf8b7f?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+        "id": 29,
+        "title": "Modern Office Chair",
+        "price": 159.99,
+        "category": "Home",
+        "rating": 4.8,
+        "trending": true,
+        "image": "https://images.unsplash.com/photo-1580480055273-228ff5388ef8?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+        "id": 30,
+        "title": "Laptop Stand",
+        "price": 32.99,
+        "category": "Electronics",
+        "rating": 4.6,
+        "trending": false,
+        "image": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?auto=format&fit=crop&w=800&q=80"
+    }
+]
+
